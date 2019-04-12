@@ -8,7 +8,7 @@ Please send your resume to Echo Xu if you are interested in this position: ecxu@
 Job Description Summary
 #
 PayPal Corporate IT is looking for a Level 2 Desktop Support manager. This role will be primarily supporting Shanghai and regional sites including remote employees as well. As the Desktop Support manager, you will be responsible for the quality and day-to-day operations of the Level 2 Desktop Support Technicians across your team. This may include coaching junior technicians, advanced troubleshooting and coordination with Level 3 teams, and attending meetings for mini-projects based at the site.
-
+[tab][tab] 
 Requirements
 • Sets clear goals and measurement, drives team results to achieve/exceed organization goals/KPIs
 • Coaches and empowers teammates to create exceptional customer experience and makes the right decisions within defined operational guidelines
