@@ -7,9 +7,8 @@ Location: Shanghai
 Please send your resume to Echo, Recruiter @ PayPal if you are interested in this position: ecxu@paypal.com
 #
 Job Description Summary
-
+说人话：JD略长，主要要求如下: 1) 有3年以上Java开发经验；丰富的大数据/流媒体平台经验:Spark, Flink, Hadoop
    <br />PayPal is the faster, safer way to pay and get paid online. The service allows people to send money without sharing financial information, with the flexibility to pay using their account balances, bank accounts, credit cards or promotional financing. With 165 million active accounts in 203 markets and 26 currencies around the world, PayPal enables global ecommerce. More information about the company can be found at PayPal.com. 
-
    <br />•	Develop high available, high performance, scalable infrastructure systems in a fast-growing Internet company.
    <br />•	Work with various teams to deliver fantastic data processing/analytic platform as an core platform in PayPal to support worldwide business.
    <br />•	Design, develop, test, release, operate the platform with full SDLC with Agile methods.
