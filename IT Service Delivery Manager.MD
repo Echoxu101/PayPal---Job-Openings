@@ -1,6 +1,7 @@
 IT Service Delivery Manager
 =
 Team: IT
+   <br />
 Location: Shanghai
 #
 Please send your resume to Echo, Recruiter @ PayPal if you are interested in this position: ecxu@paypal.com
