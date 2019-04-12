@@ -8,6 +8,7 @@ Please send your resume to Echo, Recruiter @ PayPal if you are interested in thi
 #
 Job Description Summary
 ==
+说人话：JD略长，主要要求如下: 1) 有2年以上前端开发经验，熟悉JavaScript；熟悉SQL；有基于Web的开发经验，例如Restful API；英语或日语沟通流利
    <br />
    The PayPal Professional Services team is looking for a Global Technical Support Engineer. This position will require a technical understanding PayPal's products as well as the ability to analyze and resolve live technical and integration issues. Technical Support Engineers are responsible for providing services to PayPal merchants, developers and internal PayPal teammates. Leadership and adaptability are a key component to this position, as it will require building strong relationships across the organization.
  
@@ -17,7 +18,6 @@ Job Description Summary
   <br /> •Assist with the integration and configuration of the PayPal APIs and products across multiple channels, including mobile devices such as smart phones and tablets. Share PayPal integration best practices.
   <br /> •Completely customer focused, and liaises closely with senior management on product direction to ultimately benefit the customer. This can include being a consultative service and being a single point of contact for major customers.
   <br /> •Lead key support escalations as required whilst ensuring the team is future equipped to handle similar situations if they reoccur.
-  
   <br /> •Support merchant onboarding and account configuration.
   <br /> •Communicate live issues to merchants and internal stakeholders. Identify and submit PayPal defects.
   <br /> •Help develop technical content (sample code, white papers, FAQs, blogs, etc.).
