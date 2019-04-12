@@ -1,9 +1,8 @@
 IT Service Delivery Manager
 =
 Team: IT
-==
 Location: Shanghai
-==
+
 Please send your resume to Echo Xu if you are interested in this position: ecxu@paypal.com
 =
 Job Description Summary
