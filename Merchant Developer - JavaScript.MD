@@ -13,26 +13,27 @@ Job Description Summary
    <br />
 Job Responsibilities
 =
-  <br />	Work directly with PayPal customers (developers- merchants) and internal teams on post-integration (live) issues. Troubleshoot technical issues related to client code and libraries, connectivity, networking, PayPal software, hardware, etc.
-  <br />Assist with the integration and configuration of the PayPal APIs and products across multiple channels, including mobile devices such as smart phones and tablets. Share PayPal integration best practices.
-  <br />Completely customer focused, and liaises closely with senior management on product direction to ultimately benefit the customer. This can include being a consultative service and being a single point of contact for major customers.
-  <br />Lead key support escalations as required whilst ensuring the team is future equipped to handle similar situations if they reoccur.
-  <br />Support merchant onboarding and account configuration.
-  <br />Communicate live issues to merchants and internal stakeholders. Identify and submit PayPal defects.
-  <br />Help develop technical content (sample code, white papers, FAQs, blogs, etc.).
-  <br />Participate in the development of tools, systems and processes to improve productivity.
-  <br />Work independently and with other members to successfully drive significant projects to completion. 
-  <br />Team advocate, representing team's interests when working with other support teams and stakeholders. With the support of senior management, drive process and product improvements with other support teams and stakeholders.
-  <br />Develop strong working relationships across all levels and functions to facilitate problem diagnosis and resolution in relevant areas.
-  <br />Provides leadership to others and may coordinate activities, particularly junior engineers who work on the same team or related features or product sub-systems.
-  <br />Influence senior management on product direction, particularly related to their area of focus and expertise.
+  <br /> •Work directly with PayPal customers (developers- merchants) and internal teams on post-integration (live) issues. Troubleshoot technical issues related to client code and libraries, connectivity, networking, PayPal software, hardware, etc.
+  <br /> •Assist with the integration and configuration of the PayPal APIs and products across multiple channels, including mobile devices such as smart phones and tablets. Share PayPal integration best practices.
+  <br /> •Completely customer focused, and liaises closely with senior management on product direction to ultimately benefit the customer. This can include being a consultative service and being a single point of contact for major customers.
+  <br /> •Lead key support escalations as required whilst ensuring the team is future equipped to handle similar situations if they reoccur.
+  
+  <br /> •Support merchant onboarding and account configuration.
+  <br /> •Communicate live issues to merchants and internal stakeholders. Identify and submit PayPal defects.
+  <br /> •Help develop technical content (sample code, white papers, FAQs, blogs, etc.).
+  <br /> •Participate in the development of tools, systems and processes to improve productivity.
+  <br /> •Work independently and with other members to successfully drive significant projects to completion. 
+  <br /> •Team advocate, representing team's interests when working with other support teams and stakeholders. With the support of senior management, drive process and product improvements with other support teams and stakeholders.
+  <br /> •Develop strong working relationships across all levels and functions to facilitate problem diagnosis and resolution in relevant areas.
+  <br /> •Provides leadership to others and may coordinate activities, particularly junior engineers who work on the same team or related features or product sub-systems.
+  <br /> •Influence senior management on product direction, particularly related to their area of focus and expertise.
 
 Technical Skills
-  <br />Experience in the SQL, Web Services, HTML, JavaScript,SOAP, and REST.
-  <br />Understanding of web technologies, including the HTTP protocol and TCP/IP
-  <br />Experience with mobile operating systems, such as Android and iOS, is a strong plus.
-  <br />Understanding of payment processing and gateways is a plus.
+  <br /> •Experience in the SQL, Web Services, HTML, JavaScript,SOAP, and REST.
+  <br /> •Understanding of web technologies, including the HTTP protocol and TCP/IP
+  <br /> •Experience with mobile operating systems, such as Android and iOS, is a strong plus.
+  <br /> •Understanding of payment processing and gateways is a plus.
 Requirements
-  <br />BS, BSEE, CS or other relevant technical degree.
-  <br />At least 2+ years of working experience in a Software Product Development or Technical Support role.
-  <br />Strong English written and verbal communication skills are required. 
+  <br /> •BS, BSEE, CS or other relevant technical degree.
+  <br /> •At least 2+ years of working experience in a Software Product Development or Technical Support role.
+  <br /> •Strong English written and verbal communication skills are required. 
