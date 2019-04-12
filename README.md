@@ -1,6 +1,6 @@
 # 955不加班！
 ## PayPal上海正在热招:
-  >[Java Developer for Infra – Streaming](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Infra%20%E2%80%93%20Streaming.MD)
+   > [Java Developer for Infra – Streaming](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Infra%20%E2%80%93%20Streaming.MD)
    <br />> [Java Developer for Product and Tech Team](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Product%20and%20Tech%20Team.MD)
    <br />> [Merchant Developer - JavaScript](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Merchant%20Developer%20-%20JavaScript.MD)
    <br />> [IT Service Delivery Manager](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/IT%20Service%20Delivery%20Manager.MD)
