@@ -7,7 +7,7 @@ Location: Shanghai
 Please send your resume to Echo, Recruiter @ PayPal if you are interested in this position: ecxu@paypal.com
 #
 Job Description Summary
-==
+
 说人话：JD略长，主要要求如下: 1) 有2年以上前端开发经验，熟悉JavaScript；熟悉SQL；有基于Web的开发经验，例如Restful API；英语或日语沟通流利
 
    <br />
