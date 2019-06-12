@@ -8,6 +8,8 @@ Please send your resume to Echo, Recruiter @ PayPal if you are interested in thi
 #
 
 Job Description Summary
+说人话：JD略长。本职位主要负责大数据处理平台开发。
+主要要求如下: 1) 有3年以上Java开发经验；熟悉多线程并发处理；有较好的算法/数据结构知识；有大数据/流媒体平台经验:Spark, Flink, Hadoop者优先。
 
    <br />PayPal is the faster, safer way to pay and get paid online. The service allows people to send money without sharing financial information, with the flexibility to pay using their account balances, bank accounts, credit cards or promotional financing. With 165 million active accounts in 203 markets and 26 currencies around the world, PayPal enables global ecommerce. More information about the company can be found at PayPal.com. 
 
