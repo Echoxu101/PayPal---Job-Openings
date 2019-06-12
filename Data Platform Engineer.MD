@@ -1,8 +1,9 @@
 Data Platform Engineer
 =
+Team: Infra
+   <br />
 Location: Shanghai
 #
-<br />
 Please send your resume to Echo, Recruiter @ PayPal if you are interested in this position: ecxu@paypal.com
 #
 Job Description Summary
