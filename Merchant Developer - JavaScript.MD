@@ -14,7 +14,6 @@ Job Description Summary
    The PayPal Professional Services team is looking for a Global Technical Support Engineer. This position will require a technical understanding PayPal's products as well as the ability to analyze and resolve live technical and integration issues. Technical Support Engineers are responsible for providing services to PayPal merchants, developers and internal PayPal teammates. Leadership and adaptability are a key component to this position, as it will require building strong relationships across the organization.
  
  <br />Job Responsibilities
-
   <br /> •Work directly with PayPal customers (developers- merchants) and internal teams on post-integration (live) issues. Troubleshoot technical issues related to client code and libraries, connectivity, networking, PayPal software, hardware, etc.
   <br /> •Assist with the integration and configuration of the PayPal APIs and products across multiple channels, including mobile devices such as smart phones and tablets. Share PayPal integration best practices.
   <br /> •Completely customer focused, and liaises closely with senior management on product direction to ultimately benefit the customer. This can include being a consultative service and being a single point of contact for major customers.
