@@ -2,10 +2,8 @@ AI Engineer
 =
    <br />
 Location: Shanghai
-#
 
 Please send your resume to Echo, Recruiter @ PayPal if you are interested in this position: ecxu@paypal.com
-#
 
 Job Description Summary
 说人话：JD略长，简单说一下。
