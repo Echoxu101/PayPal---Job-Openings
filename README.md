@@ -17,6 +17,8 @@ AI类职位：
 
 ### 欢迎直接发送您的最新简历和期望工作地点至ecxu@paypal.com 申请/咨询, 欢迎推荐 😊
 
+<img src="./0518 AJS PayPal Singapore-07397.jpg" width="640px">
+
 ## 在PayPal工作是什么样一种体验?
   <br />  >轻松愉快的工作氛围，众多 nice 到爆炸的小伙伴
   <br />  >可以与一群很厉害的同事一起共事，每天成长一点点
