@@ -13,7 +13,6 @@ Job Description Summary
 2.熟悉Tensorflow/PyTorch等主流深度学习框架；
 3.有NLP/图像处理/Graph Learning任一领域相关经验者优先
 
-    <br />
 You will closely work with the various world-class data driven e-payment related businesses by using the cutting-edge technologies and advanced data solution. E.g., Risk control, customer services, privacies and etc.  You will face the complex big data challenges or problems for fin-tech industry domain, which turns the big data to more valuable business insights, like customer profiling, risk assessment/vetting and so on. You do not only understand the data deeply but also develop the enterprise-level data algorithm and solutions for huge amount of data, various types of data for more business insights.
 
 What you'll be doing:
