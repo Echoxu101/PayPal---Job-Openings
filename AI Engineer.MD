@@ -3,19 +3,20 @@ AI Engineer
    <br />
 Location: Shanghai
 #
+
 Please send your resume to Echo, Recruiter @ PayPal if you are interested in this position: ecxu@paypal.com
 #
 
 Job Description Summary
 说人话：JD略长，简单说一下。
-你会做些什么？
-- 你将会参与开发企业级的大数据算法与数据解决方案
+你将会参与开发企业级的大数据算法与数据解决方案
 我们想要看到这样的你：
 1.较强的Python/Java编程能力；
 2.熟悉Tensorflow/PyTorch等主流深度学习框架；
 3.有NLP/图像处理/Graph Learning任一领域相关经验者优先
 
-   <br />You will closely work with the various world-class data driven e-payment related businesses by using the cutting-edge technologies and advanced data solution. E.g., Risk control, customer services, privacies and etc.  You will face the complex big data challenges or problems for fin-tech industry domain, which turns the big data to more valuable business insights, like customer profiling, risk assessment/vetting and so on. You do not only understand the data deeply but also develop the enterprise-level data algorithm and solutions for huge amount of data, various types of data for more business insights.
+    <br />
+You will closely work with the various world-class data driven e-payment related businesses by using the cutting-edge technologies and advanced data solution. E.g., Risk control, customer services, privacies and etc.  You will face the complex big data challenges or problems for fin-tech industry domain, which turns the big data to more valuable business insights, like customer profiling, risk assessment/vetting and so on. You do not only understand the data deeply but also develop the enterprise-level data algorithm and solutions for huge amount of data, various types of data for more business insights.
 
 What you'll be doing:
     <br />
