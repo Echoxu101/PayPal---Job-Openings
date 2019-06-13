@@ -15,7 +15,7 @@ AI类职位：
    <br />> [IT Service Delivery Manager](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/IT%20Service%20Delivery%20Manager.MD)
    <br />> [Information Security Manager](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Information%20Security%20Manager.MD)
 
-### 欢迎直接发送您的最新简历和期望工作地点至ecxu@paypal.com 申请/咨询, 欢迎推荐 😊
+### 欢迎直接发送您的最新简历和感兴趣的职位名至ecxu@paypal.com 申请/咨询, 欢迎推荐 😊
 
 <img src="./0518 AJS PayPal Singapore-07397.jpg" width="640px">
 
