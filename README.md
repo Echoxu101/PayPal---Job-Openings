@@ -9,6 +9,7 @@ AI类职位：
 <br />> [AI Engineer](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/AI%20Engineer.MD)
 
  前端类职位：
+    <br />> [Web Front-end Engineer](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Web%20Front-end%20Engineer.MD)
    <br />> [Merchant Developer - JavaScript](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Merchant%20Developer%20-%20JavaScript.MD)
    
 其他IT类职位：
