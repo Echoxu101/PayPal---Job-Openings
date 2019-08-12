@@ -1,11 +1,11 @@
 Web Front-end Engineer
+=
    <br />
 Location: Shanghai
-#
-Please send your resume to Echo, Recruiter @ PayPal if you are interested in this position: ecxu@paypal.com
-#
-Job Description Summary
 
+Please send your resume to Echo, Recruiter @ PayPal if you are interested in this position: ecxu@paypal.com
+
+Job Description Summary
 说人话：JD略长，主要要求如下: 1) 拥有较强的 JavaScript 编程能力，熟悉 React/Vue/Angular/Knockout 中任一框架 2) 熟悉 HTML5/CSS3/Node.js 3) Java 后端经验者优先
 
    <br />
