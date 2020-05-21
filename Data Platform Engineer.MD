@@ -17,15 +17,15 @@ Please send your resume to Echo, Recruiter @ PayPal if you are interested in thi
    
  What we want to see:
     <br />
-• Bachelor’s or master’s degree in Computer Science, artificial intelligence, or related technical field
+•  Bachelor’s or master’s degree in Computer Science, artificial intelligence, or related technical field
    <br />
-• High proficiency in fundamental technical skills (Programming language like Java/Scala/C++; database language like SQL; strong UNIX background)
+•  High proficiency in fundamental technical skills (Programming language like Java/Scala/C++; database language like SQL; strong UNIX background)
    <br />
-• Experience with one or more deep learning libraries and platforms will be a big plus (e.g., TensorFlow,PyTorch, etc).
+•  Experience with one or more deep learning libraries and platforms will be a big plus (e.g., TensorFlow,PyTorch, etc).
    <br />
-• Be innovative.
+•  Be innovative.
    <br />
-• Excellent spoken and written English
+•  Excellent spoken and written English
    <br />
-• Team worker, responsible, delivery-oriented
+•  Team worker, responsible, delivery-oriented
   
