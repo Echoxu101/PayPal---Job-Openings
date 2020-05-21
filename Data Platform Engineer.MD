@@ -6,7 +6,6 @@ Location: Shanghai
 #
 Please send your resume to Echo, Recruiter @ PayPal if you are interested in this position: ecxu@paypal.com
 #
-
    <br />Decision Analytics Management is an organization that aims to power business decision by delivering trusted data driven solutions. We have engineers and data scientists work together to build data platforms, services and analytical assets upon massive data. We are currently seeking a senior software engineer, who will be responsible for designing and building solutions to help answer the business questions and help business make decisions. You will be responsible for
 
 1. Build near real time data applications – you need first understand the data and then let the data tell stories. 
