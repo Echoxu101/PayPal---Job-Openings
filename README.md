@@ -2,8 +2,7 @@
 
 Java类职位：
    <br />> [Java Developer for Product and Tech Team](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Product%20and%20Tech%20Team.MD)
-   <br />> [Java Developer for Infra – Streaming](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Infra%20%E2%80%93%20Streaming.MD)
-   <br />> [Data Platform Engineer](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Data%20Platform%20Engineer.MD)
+   <br />> [MTS1, Software Engineer](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Data%20Platform%20Engineer.MD)
 
 AI类职位：
 <br />> [AI Engineer](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/AI%20Engineer.MD)
