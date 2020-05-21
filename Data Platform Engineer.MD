@@ -1,61 +1,32 @@
-Data Platform Engineer
+MTS 1, Software Engineer
 =
-Team: Infra
+Team: DAMA
    <br />
 Location: Shanghai
 #
 Please send your resume to Echo, Recruiter @ PayPal if you are interested in this position: ecxu@paypal.com
 #
 
-Job Description Summary
-  <br />
-说人话：JD略长。本职位主要负责大数据处理平台开发。
-  <br />
-主要要求如下: 1) 有3年以上Java开发经验；熟悉多线程并发处理；有较好的算法/数据结构知识；有大数据/流媒体平台经验:Spark, Flink, Hadoop者优先。
+   <br />Decision Analytics Management is an organization that aims to power business decision by delivering trusted data driven solutions. We have engineers and data scientists work together to build data platforms, services and analytical assets upon massive data. We are currently seeking a senior software engineer, who will be responsible for designing and building solutions to help answer the business questions and help business make decisions. You will be responsible for
 
-   <br />PayPal is the faster, safer way to pay and get paid online. The service allows people to send money without sharing financial information, with the flexibility to pay using their account balances, bank accounts, credit cards or promotional financing. With 165 million active accounts in 203 markets and 26 currencies around the world, PayPal enables global ecommerce. More information about the company can be found at PayPal.com. 
+1. Build near real time data applications – you need first understand the data and then let the data tell stories. 
 
-What you'll be doing:
-   <br />
-• Develop high available, high performance, scalable infrastructure systems in a fast-growing Internet company.
-   <br />
-• Work with various teams to deliver fantastic data processing/analytic platform as a core platform in PayPal to support worldwide business.
-   <br />
-• Design, develop, test, release, and operate the platform with full SDLC with Agile methods.
-   <br />
-• Performing troubleshooting and deal with production issues to provide good user experience.
-   <br />
-• Work effectively in a global team across different time zones.
+2. Build simulation applications with demand – supply model. Support trouble shooting for business cases. 
+
+3. Create new application ideas and show its proof of concept to evaluators through rapid prototyping.
+
    
  What we want to see:
     <br />
-• 3-12 years working experience, preferably in an Internet company.
+• Bachelor’s or master’s degree in Computer Science, artificial intelligence, or related technical field
    <br />
-• 3+ years’ experience in JAVA/Scala development.
+• High proficiency in fundamental technical skills (Programming language like Java/Scala/C++; database language like SQL; strong UNIX background)
    <br />
-• Rich experience on Big Data/Streaming platform such as Spark, Flink, Hadoop.
+• Experience with one or more deep learning libraries and platforms will be a big plus (e.g., TensorFlow,PyTorch, etc).
    <br />
-• Familiar with Linux, Bash and Network.
+• Be innovative.
    <br />
-• Solid foundation in common design patterns, algorithms and data structure.
+• Excellent spoken and written English
    <br />
-• Excellent communication skills, Fluent in English, both written and oral.
-   <br />
-• Deep understanding of software engineering best practice, capable of working in a global distributed engineering team.
-   <br />
-• Experience in developing high performance, high scalable distributed systems is a big plus.
-   <br />
-• Experience in AI, Machine learning, data analysis and so on is a plus.
-   <br />
-• Experience with messaging platform such as Kafka and ActiveMQ is a plus.
-   <br />
-• Experience with NoSQL and relational database is a plus.
-   <br />
-• Quick learning capability under rapid changing environment.
-   <br />
-• Can-do attitude and be willing to challenge the status.
-   <br />
-• Show respect for differences in opinions and one-team spirit.
-   <br />
-• Strong business sense and analytical ability.
-   <br />
+• Team worker, responsible, delivery-oriented
+  
