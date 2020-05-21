@@ -1,4 +1,4 @@
-## PayPal 上海目前正在热招:
+## PayPal 目前正在热招:
 
 Java类职位：
    <br />> [Java Developer for Product and Tech Team - Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Product%20and%20Tech%20Team.MD)
