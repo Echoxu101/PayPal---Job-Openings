@@ -8,8 +8,8 @@ Please send your resume to Echo, Recruiter @ PayPal if you are interested in thi
 #
 Job Description Summary
 
-<br />说人话：JD略长，本职位主要负责PayPal新产品的研发。
-主要要求如下: 熟悉Java编程；较好的算法/数据结构知识；熟悉多线程并发处理；有大数据经验者优先
+<br />说人话：JD略长，本职位主要负责中国本土化的支付产品的研发。
+主要要求如下: 熟悉Java编程；熟悉Spring Boot/Spring Cloud等web MVC 框架；熟悉微服务架构；较好的算法/数据结构知识
 
    <br />PayPal is the faster, safer way to pay and get paid online. The service allows people to send money without sharing financial information, with the flexibility to pay using their account balances, bank accounts, credit cards or promotional financing. With 165 million active accounts in 203 markets and 26 currencies around the world, PayPal enables global ecommerce. More information about the company can be found at PayPal.com. 
 Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal’s 267 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom, enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
