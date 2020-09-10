@@ -1,6 +1,6 @@
 ## PayPal 目前正在热招:
 
-Java类职位：
+后端类职位：
    <br />> [P&T - Java Engineer- Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Product%20and%20Tech%20Team.MD)
    <br />> [DAMA - Software Engineer - Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Data%20Platform%20Engineer.MD)
    <br />> [AI ML - Software Engineer - Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Infra%20%E2%80%93%20Streaming.MD)
