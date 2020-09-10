@@ -5,7 +5,7 @@ Java类职位：
    <br />> [MTS1, Software Engineer - Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Data%20Platform%20Engineer.MD)
 
 AI类职位：
-<br />> [AI Engineer](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/AI%20Engineer.MD)
+<br />> [AI Platform - Machine Learning Engineer](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/AI%20Engineer.MD)
 
  前端类职位：
     <br />> [Web Front-end Engineer](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Web%20Front-end%20Engineer.MD)
