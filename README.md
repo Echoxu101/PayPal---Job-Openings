@@ -3,7 +3,7 @@
 Java类职位：
    <br />> [Java Developer for Product and Tech Team - Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Product%20and%20Tech%20Team.MD)
    <br />> [DAMA - Software Engineer - Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Data%20Platform%20Engineer.MD)
-   <br />> [AI ML - Software Engineer - Shanghai] (https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Infra%20%E2%80%93%20Streaming.MD)
+   <br />> [AI ML - Software Engineer - Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Infra%20%E2%80%93%20Streaming.MD)
    
 AI类职位：
 <br />> [AI Platform - Machine Learning Engineer](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/AI%20Engineer.MD)
