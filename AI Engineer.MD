@@ -1,57 +1,23 @@
-ML Engineer, AI Platform
+PayPal AI ML Team Hiring 
 =
    <br />
 Location: Shanghai
 
 Please send your resume to Echo, Recruiter @ PayPal if you are interested in this position: ecxu@paypal.com
 
-Job Description Summary
-说人话：JD略长，简单说一下。
-你将会参与开发AI平台
-我们想要看到这样的你：
-1.较强的Java / Python / Golang 编程能力；
-2.熟悉Tensorflow / PyTorch 等主流深度学习框架；
-3.有 NLP / 推荐系统/ 反欺诈 等任一领域相关经验者优先
+PayPal AI计算平台是基于大数据、实时计算、图关联计算、机器学习等技术构建起的一整套的计算平台。
 
-PayPal is the world’s leader in online payments processing. The company helps buyers and sellers around the world make and receive payments. PayPal is headquartered in San Jose, CA with multiple offices within the United States and around the world.
-We are hiring creative and talented ML Engineers to the PayPal AI Platform team. You will have a chance to work on solving real world problems and gain practical experience in end to end Machine Learning life cycle. You will design, build, and optimize the platform for ML pipeline and data infrastructure. Additionally, you will gain domain expertise in a variety of industries, working with data scientists, researchers, and engineers to build ML models used across all PayPal domains.
+我们的使命是：开发业界领先的AI平台，驱动AI民主化，让内部每个团队都能更好地利用机器学习技术解决各类复杂业务难题。
 
-
-What you'll be doing:
-•	Develop highly scalable systems, algorithms and tools on one platform to support machine learning and deep learning solutions.
-•	Develop, integrate and optimize end to end AI pipeline.
-•	Collect, analyze and synthesize requirements and bottleneck in the technology, systems and tools used by machine learning engineers and scientists,  develop solutions that improves efficiency, leverage more amount of data efficiently.
-•	Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, GPU, TPU and FPGA)
-•	Explore state-of-the-art deep learning techniques
-•	Partner with data science and domain engineering teams to support the business transformation through AI.
-
-
-   
- What we want to see:
+我们正在招聘这样的你：
     <br />
-• Bachelor or above degree in Computer Science or Engineering
+• 高级产品经理 
+  <br />
+  五年以上产品经验；有AI/ML相关经验；中英文沟通出色
     <br />
-• Rich experience in software engineering.
+• Go/Python/Java 后端工程师 
     <br />
-• 2+ years of experience with machine learning, AI.
+  熟悉Java或者Go或者Python中至少一种编程语言；有大数据或者机器学习相关经验（23级可放宽）； 熟悉容器技术。23/24级英语要求workable，25级及以上要求英文流利
+• 高级全栈工程师
     <br />
-• 2+ years of experience in data science related frameworks such as scikit-learn, TensorFlow, PyTorch, etc.
-    <br />
-• Good understanding of database principles and SQL beyond just data access
-    <br />
-• Strong analytical and problem-solving skills.
-    <br />
-• Excellent oral and written communication skills in English.
-    <br />
-
-Preferred Qualifications
-    <br />
-• Rich experience in at least one of machine learning areas including natural language processing, image processing, graph learning, etc.
-    <br />
-• Master or PhD Preferred 
-    <br />
-• Expert in multiple programming/scripting languages, including Unix/Linux shell scripting, Perl, Python, C++, Java, Python, Ruby, Scala and etc.
-    <br />
-• Familiar with various big data technologies, open source data processing frameworks. E.g., Spark, Hadoop, HBase, Elastic Search, Pig, Hive, and so on.
-    <br />
-• Knowledge on the following business domains: Risk, Payments, e-commerce
+  前端不限框架；后端熟悉Python或者Go；熟悉容器技术；英语沟通能力强
