@@ -7,7 +7,7 @@
 [GDS Team Hiring](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/GDS.MD)
  <br />  >PayPal GDS （全球数据科学研发部）为 PayPal 的每一笔支付和借贷交易安全保驾护航，基于业界领先的 AI 平台，运用前沿的机器学习算法和大数据分析，不断创新，迭代开发风险控制及业务相关模型的技术设计与实现，用以精准阻击风险控制中的各种欺诈行为以及支持 PayPal 各个业务领域的发展（如信用卡，市场营销，运维等），为处理海量真实业务数据中复杂业务难题提供高效，可靠，完备的技术解决方案和服务。
 
-[Product and Technology China Team Hiring]https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Product%20and%20Tech%20Team.MD
+[Product and Technology China Team Hiring](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Product%20and%20Tech%20Team.MD）
 作为首家拿到国内支付牌照的外资企业——PayPal，我们致力于提供业界最先进的支付产品与服务。同时，我们也提供整个中国本土化平台的调度系统，中间件，以智能化提升系统稳定性、效率，降低成本。团队兼具startup成长性与外企氛围。
 
 ### 欢迎直接发送您的最新简历和感兴趣的职位名至ecxu@paypal.com 申请/咨询, 欢迎推荐 😊
