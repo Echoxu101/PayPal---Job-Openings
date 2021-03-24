@@ -1,6 +1,8 @@
 ## PayPal 目前正在热招:
 
 [AI ML Team Hiring](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/AI%20Engineer.MD)
+  <br />  >PayPal AI计算平台是基于大数据、实时计算、图关联计算、机器学习等技术构建起的一整套的计算平台。
+  <br />  >我们的使命是：开发业界领先的AI平台，驱动AI民主化，让内部每个团队都能更好地利用机器学习技术解决各类复杂业务难题。
 
 
 ### 欢迎直接发送您的最新简历和感兴趣的职位名至ecxu@paypal.com 申请/咨询, 欢迎推荐 😊
