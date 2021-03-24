@@ -1,20 +1,8 @@
 ## PayPal 目前正在热招:
 
-后端类职位：
+AI ML Team Hiring 
    <br />> [P&T - Java Engineer- Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Product%20and%20Tech%20Team.MD)
-   <br />> [DAMA - Software Engineer - Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Data%20Platform%20Engineer.MD)
-   <br />> [AI ML - Software Engineer - Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Infra%20%E2%80%93%20Streaming.MD)
-   
-AI类职位：
-<br />> [AI ML - Machine Learning Engineer](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/AI%20Engineer.MD)
 
- 前端类职位：
-    <br />> [Web Front-end Engineer](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Web%20Front-end%20Engineer.MD)
-   <br />> [Merchant Developer - JavaScript](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Merchant%20Developer%20-%20JavaScript.MD)
-   
-其他IT类职位：
-   <br />> [IT Service Delivery Manager](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/IT%20Service%20Delivery%20Manager.MD)
-   <br />> [Information Security Manager](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Information%20Security%20Manager.MD)
 
 ### 欢迎直接发送您的最新简历和感兴趣的职位名至ecxu@paypal.com 申请/咨询, 欢迎推荐 😊
 
