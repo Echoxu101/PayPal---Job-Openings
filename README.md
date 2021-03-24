@@ -1,7 +1,6 @@
 ## PayPal 目前正在热招:
 
-AI ML Team Hiring 
-   <br />> [P&T - Java Engineer- Shanghai](https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/Java%20Developer%20for%20Product%20and%20Tech%20Team.MD)
+AI ML Team Hiring (https://github.com/Echoxu101/PayPal---Job-Openings/blob/master/AI%20Engineer.MD)
 
 
 ### 欢迎直接发送您的最新简历和感兴趣的职位名至ecxu@paypal.com 申请/咨询, 欢迎推荐 😊
