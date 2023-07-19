@@ -7,7 +7,7 @@ Staff Backend Engineer - Java + Spring Framework + Microservices Architecture (a
 <br /> Staff Full Stack Engineer - React.js + Node.Js (at least 8 years working experience)
 #### Location: Austin, Chicago, Scottsdale US
 
-![image]([0518 AJS PayPal Singapore-07397.jpg])
+![image](0518 AJS PayPal Singapore-07397.jpg)
 
 ### Global Analytics and Data Science Hiring
 PayPal is a global leader in online payments and democratization of financial services, providing payment solutions for hundreds of millions of customers all over the world. In a high-impact and high-visibility environment, you will have the opportunity of utilizing PayPal’s large-scale infrastructure (including network graph assets) to design and develop large-scale ranking and recommendation systems powering content on novel user interface designs to fundamentally enhance customer experience and engagement.
