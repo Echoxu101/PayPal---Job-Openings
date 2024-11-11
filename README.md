@@ -46,7 +46,7 @@ Welcome to the **PayPal Shanghai Technical Hot Jobs** section! Here you'll find 
 **Location:** Shanghai 
 **YoE:** Master - 2+ years; Bachelor - 4+ years
 
-## 📜 ** Senior Full Stack Engineer – CIPDS - Shanghai** 
+## 📜 ** Senior Full Stack Engineer - CIPDS - Shanghai** 
 **Work with business partner to enable the world class transaction monitoring platform in PayPal. Work with the top engineering talents to solve the tech challenges including high scalability, low latency and high availability using the cutting-edge micro-service and big data technology.
 **Skills: JavaScript, React, Node, Java; good English communication skills 
 **Location:** Shanghai 
